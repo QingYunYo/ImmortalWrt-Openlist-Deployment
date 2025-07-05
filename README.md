@@ -1,0 +1,2 @@
+# ImmortalWrt-Openlist-Deployment
+openlist在immortalwrt/openwrt上部署及子域名访问
